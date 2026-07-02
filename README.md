@@ -131,8 +131,8 @@ This project demonstrates proficiency in:
 
 **Victor Afahakan**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/VictorAfahakan
+- LinkedIn: https://linkedin.com/in/victor-afahakan-a377381a7/
 
 ---
 
